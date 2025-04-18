@@ -2,3 +2,4 @@
 **/*.pyc
 Thumbs.db
 **/*checkpoint.ipynb
+.ipynb_checkpoints/**
