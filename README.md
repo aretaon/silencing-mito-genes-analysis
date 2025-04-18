@@ -1,4 +1,7 @@
-# Silencing mitochondrial gene expression in living cells					
+# Silencing mitochondrial gene expression in living cells
+[![DOI](https://zenodo.org/badge/968668902.svg)](https://doi.org/10.5281/zenodo.15241939)
+
+
 ## Proteomics analysis scripts
 
 This repository holds the Python code for MS data analysis in the Paper "Silencing mitochondrial gene expression in living cells" (https://doi.org/10.1126/science.adr3498).
